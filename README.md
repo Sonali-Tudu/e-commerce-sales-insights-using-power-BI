@@ -40,6 +40,3 @@ The "E-commerce Sales Insights using Power BI" project aims to create a comprehe
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
