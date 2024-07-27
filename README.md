@@ -1,7 +1,5 @@
 # E-commerce Sales Insights using Power BI
 
-![E-commerce Sales Dashboard](sales-dashboard.png)
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Tech Stack](#tech-stack)
@@ -12,6 +10,8 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
+![E-commerce Sales Dashboard](sales-dashboard.png)
 
 ## Project Overview
 The "E-commerce Sales Insights using Power BI" project aims to create a comprehensive and interactive dashboard to analyze sales performance for an e-commerce business. The dashboard provides insights into various metrics such as total sales, sales trends, customer demographics, product performance, and more.
