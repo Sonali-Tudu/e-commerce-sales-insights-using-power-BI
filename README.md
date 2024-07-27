@@ -1,6 +1,6 @@
 # E-commerce Sales Insights using Power BI
 
-![E-commerce Sales Dashboard](images/dashboard.png)
+![E-commerce Sales Dashboard](Screenshot 2024-07-27 203804.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
