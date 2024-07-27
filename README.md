@@ -1,16 +1,4 @@
 # E-commerce Sales Insights using Power BI
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Data Sources](#data-sources)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ![E-commerce Sales Dashboard](sales-dashboard.png)
 
 ## Project Overview
